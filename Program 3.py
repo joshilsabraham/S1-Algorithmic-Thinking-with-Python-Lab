@@ -5,16 +5,16 @@ Description: Program that demonstrates the usage of arithmetic,
              comparison, and logical operators. Perform a few
              operations and print the results.
 '''
-a=int(input("Enter First Number:"))
-b=int(input("Enter Second Number:"))
-addition=a+b
-division=a/b
+number_1=int(input("Enter First Number:"))
+number_2=int(input("Enter Second Number:"))
+addition=number_1+number_2
+division=number_1/number_2
 print("Sum:",addition,"Division:",division)
-comparison=a>b
+comparison=number_1>number_2
 print("Is a greater than b?:",comparison)
-equality=a==b
+equality=number_1==number_2
 print("Are a and b equal?",equality)
-logical_and=a and b
-logical_or=a or b
+logical_and=number_1>0 and number_2>0
+logical_or=number_1<0 or number_2<0
 print("Logical AND:",logical_and)
 print("Logical OR:", logical_or)
