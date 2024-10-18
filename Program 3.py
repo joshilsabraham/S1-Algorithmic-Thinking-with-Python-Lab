@@ -5,8 +5,8 @@ Description: Program that demonstrates the usage of arithmetic,
              comparison, and logical operators. Perform a few
              operations and print the results.
 '''
-a=10
-b=5
+a=int(input("Enter First Number:"))
+b=int(input("Enter Second Number:"))
 addition=a+b
 division=a/b
 print("Sum",addition,"Division",division)
