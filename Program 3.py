@@ -9,7 +9,7 @@ a=int(input("Enter First Number:"))
 b=int(input("Enter Second Number:"))
 addition=a+b
 division=a/b
-print("Sum",addition,"Division",division)
+print("Sum:",addition,"Division:",division)
 comparison=a>b
 print("Is a greater than b?:",comparison)
 equality=a==b
