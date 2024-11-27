@@ -1,4 +1,9 @@
-# Program to convert temperatures between Celsius and Fahrenheit.
+'''
+Author: Joshil S Abraham
+Date: 25/10/2024
+Description: Program to convert temperature values back and forth between Celsius and Fahrenheit.
+             The user should be able to input a temperature in Celsius or Fahrenheit, and the program should convert it to the other unit.
+'''
 while True:
     print("1.\tConvert Celsius to Fahrenheit")
     print("2.\tConvert Fahrenheit to Celsius")
