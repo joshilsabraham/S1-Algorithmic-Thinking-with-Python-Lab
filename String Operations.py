@@ -1,6 +1,6 @@
 '''
 Author: Joshil S Abraham
-Date: 19-18-2024
+Date: 19/11/2024
 Description: Program to create two separate strings containing your first and  last name.
              Concatenate the two strings with a space in between and store the result in a new variable.
              From the concatenated string, accessing and printing a sub-string that consists of the last name only.
