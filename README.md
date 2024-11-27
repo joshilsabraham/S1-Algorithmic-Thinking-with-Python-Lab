@@ -55,7 +55,7 @@ The repository is organized programmatically, with each file named to reflect it
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mighty070jail/Python-Lab.git
+   git clone https://github.com/mighty070jail/Algorithmic-Thinking-with-Python-Lab.git
    ```
 2. Navigate to the program file you want to execute.
 3. Run the program using Python:
