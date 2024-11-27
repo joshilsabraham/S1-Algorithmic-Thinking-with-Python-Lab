@@ -8,5 +8,5 @@ Description: Program that stores a string in a variable.
 string_1="Hello, World!"
 substring=string_1[6:11]
 string_2="Everyone!"
-concatenated_string=substring+string_2
+concatenated_string = substring+string_2
 print(concatenated_string)
