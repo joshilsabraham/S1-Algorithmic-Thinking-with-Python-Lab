@@ -10,7 +10,7 @@ while True:
     print("3.\tExit the program")
     option=int(input("Choose an Option:"))
     if option==1:
-        temperature=float(input('Enter Temperature in Celsius:'))
+        temperature=float(input("Enter temperature:"))        
         fahrenheit_value=(temperature*9/5)+32
         print(f"{temperature}Celsius is{fahrenheit_value}Fahrenheit")
     elif option==2:
@@ -21,3 +21,17 @@ while True:
         exit()
     else:
         print("Invalid Option")
+      
+'''
+OR
+temperature=float(input("Enter temperature:"))
+value=input("Is this in (C)elsius or (F)ahrenheit?:")
+if value=='c' or 'C':
+    fahrenheit_value=(9/5*temperature)+32
+    print(value, "Celsius is", fahrenheit_value,"Fahrenheit")
+elif value=='f' or 'F':
+    celsius_value=5/9*(temperature-32)
+    print(value,"Fahrenheit is", celsius_value,"Celsius.")
+else:
+    print("Invalid")
+'''
