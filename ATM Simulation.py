@@ -1,3 +1,8 @@
+'''
+Author: Joshil S Abraham
+Date: 28/10/2024
+Description: Program to simulate a simple bank ATM system.
+'''
 balance_amount=1000
 while True:
     print("1.\tCheck Balance")
