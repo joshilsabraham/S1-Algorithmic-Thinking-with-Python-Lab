@@ -75,6 +75,5 @@ A heartfelt thanks to **[Sarju Sir](https://github.com/sarjus)** for his excepti
 This repository is for **educational use only**.
 Feel free to explore, modify, and learn—but give credit where due. 💡
 
-🚀 Happy Coding!
-Let the logic flow and code grow! 🌱
+### 🚀 Happy Coding!
 If you found this helpful, consider ⭐ starring the repo!
